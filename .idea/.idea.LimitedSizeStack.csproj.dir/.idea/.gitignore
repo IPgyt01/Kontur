@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.LimitedSizeStack.csproj.iml
+# Datasource local storage ignored files
+/../../../../../../../:\MyProgrammerProjects\RiderProjects\LimitedSizeStack.csproj\.idea\.idea.LimitedSizeStack.csproj.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
